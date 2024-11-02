@@ -1,3 +1,3 @@
-module demo-app
+module app
 
 go 1.23
