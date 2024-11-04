@@ -4,7 +4,7 @@ metadata:
   name: demo-pod-with-one-container
 spec:
   containers:
-  - image: ssttehrani/7learn-k8s-demo-app:v1
+  - image: hailsayan/go-app:v1
     name: app
     ports:
     - containerPort: 8080
